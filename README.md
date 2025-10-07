@@ -13,10 +13,3 @@ FraudDetector — это учебный проект на Java для обнар
 <li>Java 22</li>
 <li>Maven</li>
 <li>JUnit 6 (тестирование)</li>
-
-
-<style>
-    li {
-        font-size: 20px;
-    }
-</style>
